@@ -1,0 +1,11 @@
+@mixin bannerbg {
+    background-image: url(../../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 440px;
+}
+
+@mixin cumber{
+    background-image: url(../../images/Ellipse\ 1596.png);
+    background-repeat: no-repeat;
+}
